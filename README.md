@@ -10,3 +10,6 @@ Follow these steps to set up and run the project on your local machine:
    Begin by cloning the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/parvaneh-soleimany/Generate_Synthetic_text_data.git
+2. **Install the dependencies:**
+    Use pip to install the required packages listed in requirements.txt
+   pip install -r requirements.txt
