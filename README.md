@@ -24,5 +24,5 @@ This repository includes two Jupyter notebooks for generating synthetic tabular 
 - **Description**: The method focuses on leveraging LLM to create realistic tabular data. 
 
 ### 2. `Generate_synthetic_data_Langchain.ipynb`:
-- **Approach**: In this notebook, we'll dive deep into generating synthetic records using the [langchain](https://python.langchain.com/docs/introduction/) library. 
+- **Approach**: In this notebook, we'll dive deep into generating synthetic records using the [LangChain](https://python.langchain.com/docs/introduction/) library. 
 - **Description**: By applying this approach, we explore how to leverage LangChain’s SyntheticDataGenerator model for creating data based on prompt engineering and chaining LLM responses.
