@@ -27,7 +27,11 @@ Follow these steps to set up and run the project on your local machine:
    ```bash
    pip install -r requirements.txt
 3. **Install Ollama:**
-   Follows these steps only for Langchain generator.
+   Follow these steps only for LangChain data generator.
    - As a first step, you should download Ollama to your machine from: https://ollama.com/download
-   - Download a model
-   - install
+   - Install a Llama3 model from the Ollama Library: https://ollama.com/library/llama3
+   - You can verify that everything is correctly installed by running a basic command, such as:
+     ```shell
+     ollama list
+     ```
+     
