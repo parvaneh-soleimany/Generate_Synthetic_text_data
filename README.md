@@ -26,9 +26,8 @@ Follow these steps to set up and run the project on your local machine:
     Install the required packages
    ```bash
    pip install -r requirements.txt
-3. **Installing Ollama:**
-   For running the code for Langchain notebook you need to  have Ollama installed on your local machine. Follow these steps:
-   - To download Ollama, you can either visit the official GitHub repo and follow the download links from there. Or visit the official website and download the installer.
-   Download and install Ollama from: https://ollama.com/download/windows
+3. **Install Ollama:**
+   Follows these steps only for Langchain generator.
+   - As a first step, you should download Ollama to your machine from: https://ollama.com/download
    - Download a model
    - install
