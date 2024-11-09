@@ -36,5 +36,13 @@ Follow these steps to set up and run the project on your local machine:
      ```
 ## Usage
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repo_name/blob/main/path/to/notebook.ipynb)
+You can open and run the Jupyter notebooks directly in Google Colab by clicking the buttons below:
+
+### Notebook 1: Generate Synthetic Data using Tabula
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/parvaneh-soleimany/Generate_Synthetic_text_data/blob/main/Generate_synthetic_data_Tabula.ipynb)
+
+### Notebook 2: Generate Synthetic Data using LangChain
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parvaneh-soleimany/Generate_Synthetic_text_data/blob/main/Generate_synthetic_data_Langchain.ipynb)
+
 
