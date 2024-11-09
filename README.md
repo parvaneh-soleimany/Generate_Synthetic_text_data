@@ -23,6 +23,6 @@ This repository includes two Jupyter notebooks for generating synthetic tabular 
 - **Approach**: This notebook uses Tabula for generating synthetic tabular data.
 - **Description**: The method focuses on leveraging LLM to create realistic tabular data. 
 
-### 2. 'Generate_synthetic_data_Langchain.ipynb':
+### 2. `Generate_synthetic_data_Langchain.ipynb`:
 - **Approach**: This notebook implements Langchain.
 - **Description**: By applying this approach, 
