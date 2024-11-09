@@ -39,7 +39,7 @@ Follow these steps to set up and run the project on your local machine:
 ### Generate Synthetic Data using Tabula
 - local: Run `jupyter notebook` in your terminal, navigate to `Generate_synthetic_data_Tabula.ipynb`, and open it.
 - Colab: You also can open and run the Jupyter notebook directly in Google Colab by clicking the button below:
-- 
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parvaneh-soleimany/Generate_Synthetic_text_data/blob/main/Generate_synthetic_data_Tabula.ipynb)
 
 ### Generate Synthetic Data using LangChain
