@@ -34,4 +34,7 @@ Follow these steps to set up and run the project on your local machine:
      ```shell
      ollama list
      ```
-     
+## Usage
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repo_name/blob/main/path/to/notebook.ipynb)
+
