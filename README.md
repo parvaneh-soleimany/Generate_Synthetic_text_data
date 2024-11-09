@@ -26,3 +26,5 @@ Follow these steps to set up and run the project on your local machine:
     Install the required packages
    ```bash
    pip install -r requirements.txt
+3. **Installing Ollama:**
+   For running the code for Langchain notebook tou need to  have Ollama installed on your local system.
